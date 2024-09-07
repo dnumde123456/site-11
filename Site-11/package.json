@@ -1,0 +1,19 @@
+{
+    "name": "site-11",
+    "version": "1.0.0",
+    "description": "A web service for SCP Site-11",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "build": "echo 'No build step required'"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.7"
+    },
+    "author": "Odin",
+    "license": "MIT"
+  }
+  
